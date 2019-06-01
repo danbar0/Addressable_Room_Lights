@@ -7,7 +7,7 @@ Developed on the Adafruit Feather M0 Bluefruit LE.
 
 UART COMMAND LIST:
 
-'#':    changes LED brightness (32 bit value)
+'#':    changes LED brightness (8 bit value)
 
 'r':    resets program to default values
 
