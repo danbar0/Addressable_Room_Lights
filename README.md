@@ -5,7 +5,7 @@ Controls a variable length string of addressable LEDs with the ability to change
 Requires download of the Adafruit_Neopixel library.
 Developed on the Adafruit Feather M0 Bluefruit LE.
 
-UART COMMAND LIST
+UART COMMAND LIST:
 
 '#':    changes LED brightness (32 bit value)
 
