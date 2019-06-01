@@ -6,10 +6,17 @@ Requires download of the Adafruit_Neopixel library.
 Developed on the Adafruit Feather M0 Bluefruit LE.
 
 UART COMMAND LIST
+
 '#':    changes LED brightness (32 bit value)
+
 'r':    resets program to default values
+
 'b':    white illumination
+
 'p':    color wave illumination
+
 'bf#':  speed of fade in for white illumination
+
 'pf#':  speed of fade in for color wave illumination
+
 't#':   changes length of time before auto shut off of LEDs
